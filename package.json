@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.8.2",
+    "@rainbow-me/rainbowkit": "^0.12.1",
+    "@truffle/hdwallet-provider": "^2.1.7",
+    "@uniswap/sdk": "^3.0.3",
+    "@uniswap/sdk-core": "^3.2.2"
+  }
+}
